@@ -17,7 +17,7 @@ As tecnologias e linguagens que domino e estão listadas na seção de habilidad
 
 *   React & Next.js
 *   JavaScript & TypeScript
-*   Python & Java
+*   Java
 
 ---
 
